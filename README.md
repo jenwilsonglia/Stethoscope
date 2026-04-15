@@ -25,10 +25,10 @@ Bill of Materials
 Some vendors are suggested.
 
 *Translucent Silicone Rubber Tubing in US*
-* 40cm - 50cm Silicone 13mm OD, 8mm ID, 50 durometer
+* 50cm length of Silicone tube - 8mm ID, 13mm OD, 50 durometer
   * [8MM ID X 13MM OD (0.315" ID x 0.512" OD)](https://aerorubber.com/standard-tube-extrusions/)
 
-* 20cm Silicone 8mm (preferred) or 6mm OD, 4mm ID (cut into 10cm pieces), 50 durometer
+* 20cm length of silicone tube (cut into 10cm pieces) - 4mm ID, 8mm OD, 50 durometer
   * [4mm ID x 8mm OD (0.157" ID x 0.314" OD)](https://aerorubber.com/standard-tube-extrusions/)
  
 *Diaphragm: 40mm diameter cut from a report cover with approx 0.35mm plastic sheet*
